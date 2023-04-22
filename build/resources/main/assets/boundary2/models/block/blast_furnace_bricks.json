@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "boundary:block/blast_furnace_bricks"
-  }
-}
